@@ -17,14 +17,14 @@
 #### 💻 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,python,html,css,js,laravel,mysql,prisma" />
   </a>
 </p>
 
 #### 🧪 Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,laragon,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </a>
 </p>
 
