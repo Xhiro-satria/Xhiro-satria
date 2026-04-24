@@ -5,10 +5,8 @@
 </p> -->
 
 ### 👨‍💻 About Me
-- 🚀 I'm a **Web Developer & QA Automation Enthusiast**. I build robust applications and ensure they stay that way through automated testing.
-- 🌱 Currently mastering **CI/CD Pipelines** and **Advanced Automation Frameworks**.
-- 💬 Ask me about **Fullstack Development, Selenium, Pytest, or API Testing**.
-- 📫 Connect with me at: **satriadian4@gmail.com**
+- 🚀 I'm a **Junior Web Developer **. 
+- 📫 Connect with me at: **satriadian091@gmail.com**
 
 ---
 
