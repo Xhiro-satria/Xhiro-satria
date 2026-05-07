@@ -15,14 +15,14 @@
 #### 💻 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,html,css,js,laravel,mysql,prisma" />
+    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,mysql,prisma" />
   </a>
 </p>
 
 #### 🧪 Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
   </a>
 </p>
 
@@ -49,4 +49,4 @@
 
 <br />
 
-*"Write code as if the person who ends up maintaining it will be a violent psychopath who knows where you live."*
+*"loro atiku, atiku keloro-loro"*
