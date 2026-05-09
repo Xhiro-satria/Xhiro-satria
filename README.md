@@ -26,7 +26,7 @@
   </a>
 </p>
 
-> **Core Focus:** Building with **React** and testing with **Selenium/Pytest**.
+> **Core Focus:** Building with **Express**
 
 ---
 
